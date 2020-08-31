@@ -1,0 +1,23 @@
+*{  margin:0; padding:0;text-decoration: none;}
+#header{  width: auto;  height: 50px;  background-color: deepskyblue;  }
+header nav ul li{  border-bottom: none;  float: right;  margin-right: 25px;  font-size: 25px;  margin-top: 10px;  }
+header nav ul li a{  color: aliceblue;  text-decoration: none;  }
+header nav {  margin-left:400px;  }
+#top{  width: auto;  height:70px;  border: 1px solid white; }
+#logo{  margin-left:300px;  }
+header a:hover{  color: cornflowerblue;  height: 50px;  }
+#right{  float: right;  margin-top: -65px;  margin-right: 100px; }
+#sub{  margin-top: 20px; margin-left:-246px;width:920px;  height:450px;  left: 413px;  position: absolute;  border: 1px solid white; }
+#out{width: auto;height: 3180px;background-color: whitesmoke;}
+#mid{ width: 1500px;height:3180px;;margin-left: 165px;margin-top: 20px;position: absolute;}
+#midleft{ width: 1150px;height: 3180px;float: left;}
+#midleft1{ width: 1115px; height: 1080px;border: 1px solid white;margin-left: 17px;background-color: white;}
+#midleft2{ width: 1115px; height: 980px;border: 1px solid white;margin-left: 17px;background-color: white; margin-top: 20px;}
+#midleft3{ width: 1115px; height:1040px;border: 1px solid white;margin-left: 17px;background-color: white; margin-top: 20px;}
+#midright{ width: 348px; height: 1000px; float: right;}
+#midright1{ width: 348px;height: 500px;border: 1px solid white;background-color: white;}
+#midright li a{ font-size: 22px;margin-left: 35px;color: black;}
+#midright li{ margin-top: 20px;}
+#midright1 ul li a:hover{ color: cornflowerblue;}
+#midright2{ width: 348px;height: 900px;border: 1px solid white;background-color: white;margin-top: 20px;}
+#bottom{width: auto;height: 200px;background-color: #333333;}

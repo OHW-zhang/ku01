@@ -1,0 +1,21 @@
+*{  margin:0; padding:0;text-decoration: none;}
+#header{  width: auto;  height: 50px;  background-color: deepskyblue;  }
+header nav ul li{  border-bottom: none;  float: right;  margin-right: 25px;  font-size: 25px;  margin-top: 10px;  }
+header nav ul li a{  color: aliceblue;  text-decoration: none;  }
+header nav {  margin-left:400px;  }
+#top{  width: auto;  height:70px;  border: 0px solid white; }
+#logo{  margin-left:300px;  }
+header a:hover{  color: cornflowerblue;  height: 50px;  }
+#right{  float: right;  margin-top: -65px;  margin-right: 100px; }
+#sub{  margin-top: 20px; margin-left:-246px;width:920px;  height:450px;  left: 413px;  position: absolute;  border: 0px solid white; }
+#mid{  width: 1500px;height: 750px;border: 0px solid white ;margin-left: 165px;}
+#out{ background-color: whitesmoke;}
+#midleft{ margin-top: 20px; margin-left: 20px; border: 0px solid white; width: 1020px; height:720px;background-color: white;float: left;}
+#midleft p{ margin-top: 20px; font-size: 20px;margin-left: 20px;}
+#midright{ margin-top: 20px;margin-right: 20px; border: 0px solid white; width:420px;height: 720px;background-color: white;float:right; }
+#midrighttop{ height: 50px;background-color: deepskyblue;}
+#midright ul{ margin-top: 15px;}
+#midright ul li{ margin-top: 10px;list-style: none;font-size: 23px;margin-left: 15px;}
+#midright ul li a{ color: black;}
+#midright ul li a:hover{ color: aqua;}
+#bottom{width: auto;height: 200px;background-color: #333333;}
